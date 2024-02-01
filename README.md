@@ -1,8 +1,11 @@
-## Hey there!
+<h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://devitq.github.io/" target="_blank">🇮​​🇹​​🇶​</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
 
-Hello, i am a begineer web deleloper!
+### ​🇸​​🇹​​🇦​​🇹​​🇸​:
 
-### Technical stack:
+[![ITQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=devitq&count_private=true&show_icons=true&bg_color=22272E&text_color=9F9F9F)](https://github.com/anuraghazra/github-readme-stats)
+
+### ​🇹​​🇪​​🇨​​🇭​​🇳​​🇮​​🇨​​🇦​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​:
 
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
