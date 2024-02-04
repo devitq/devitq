@@ -1,5 +1,5 @@
 <h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://devitq.github.io/" target="_blank">🇮​​🇹​​🇶​</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+<img src="https://raw.githubusercontent.com/devitq/devitq/main/Hi.gif" height="25"/></h1>
 
 ### ​🇸​​🇹​​🇦​​🇹​​🇸​:
 
