@@ -1,13 +1,13 @@
 <h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://devitq.github.io/" target="_blank">🇮​​🇹​​🇶​</a>
 
-### ​🇸​​🇹​​🇦​​🇹​​🇸​:
+## ​🇸​​🇹​​🇦​​🇹​​🇸​:
 
 <div>
   <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
   <img alt="ITQ's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
 </div>
 
-### ​🇹​​🇪​​🇨​​🇭​​🇳​​🇮​​🇨​​🇦​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​:
+## ​🇹​​🇪​​🇨​​🇭​​🇳​​🇮​​🇨​​🇦​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​:
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
