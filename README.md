@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=dark&hide_border=true">
+  <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=transparent&hide_border=true">
 </div>
 
 ## ​🇹​​🇪​​🇨​​🇭​​🇳​​🇮​​🇨​​🇦​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​:
