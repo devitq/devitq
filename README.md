@@ -5,7 +5,10 @@
 <div>
   <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
   <img alt="ITQ's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
-  <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=dark&hide_border=false">
+</div>
+
+<div>
+  <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=dark&hide_border=true">
 </div>
 
 ## ​🇹​​🇪​​🇨​​🇭​​🇳​​🇮​​🇨​​🇦​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​:
