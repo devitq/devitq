@@ -1,4 +1,4 @@
-<h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://devitq.github.io/" target="_blank">🇮​​🇹​​🇶​</a>
+<h1 align="center">🇭​​🇮​ ​🇹​​🇭​​🇪​​🇷​​🇪​, ​🇮​❜​🇲​ ​<a href="https://itqdev.ru/" target="_blank">🇮​​🇹​​🇶​</a>
 
 ## ​🇸​​🇹​​🇦​​🇹​​🇸​:
 
