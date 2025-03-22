@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="https://itqdev.ru/" target="_blank">ITQ</a>
+<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="https://itqdev.xyz/" target="_blank">ITQ</a>
 
 ## STATS:
 
