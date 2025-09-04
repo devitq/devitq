@@ -1,64 +1,37 @@
-<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="https://itqdev.xyz/" target="_blank">ITQ</a>
+<h1 align="center">HI THERE, I'M <a style="text-decoration:none;" href="https://itqdev.xyz" target="_blank">ITQ</a>
 
-## STATS:
+![SadServers](https://img.shields.io/badge/SadServers-Advanced-2962FF?style=flat-square&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)
+[![WakaTime](https://wakatime.com/badge/user/cb406c1c-8eb4-4829-b9f9-816a0d284d7e.svg?style=flat-square)](https://wakatime.com/@ITQ)
+
+## STATS
 
 <div>
-  <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.vercel.app/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true">
-  <img alt="ITQ's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
+  <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.itqdev.xyz/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&hide=stars,prs">
+  <img alt="ITQ's GitHub stats" src="https://github-readme-stats.itqdev.xyz/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
 </div>
 
 <div>
   <img alt="ITQ's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=devitq&theme=transparent&hide_border=true">
 </div>
 
-## TECHNICAL STACK:
+___
 
-### Languages
+## TECHNICAL STACK
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### SRE / DevOps
 
-### Frameworks
+![SRE & DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,ubuntu,debian,fedora,bsd,ansible,terraform,bash,git,githubactions,gitlab,jenkins,circleci,docker,podman,kubernetes,k3s,helm,argocd,nginx,caddy,cloudflare,tailscale,wireshark,prometheus,grafana,jaeger,sentry,elasticsearch,kibana,systemd,pm2,qemu,proxmox,etcd&perline=6&titles=true)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+operating systems · IaC · CI/CD · containers & orchestration · networking & proxies · observability · virtualization
 
-### Databases
+### Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=python,golang,cpp,kotlin,fastapi,django,djangorestframework,litestar,expressjs,gin,fiber,aiogram,sqlalchemy,gorm,mongoose,postgresql,clickhouse,mongodb,sqlite,redis,elasticsearch,rabbitmq,celery,grpc,graphql,swagger,s3,websocket,postman,pytest,jupyter&perline=6&titles=true)
 
-### Automation tools
+languages · frameworks · ORMs · databases · messaging · APIs · storage · testing
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+### Frontend
 
-### VCS
+![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,zustand,tailwindcss,bootstrap,shadcn,html,css,javascript,typescript,vite,bun,nodejs,npm,yarn,pnpm,prettier,eslint,axios,websocket,electron&perline=6&titles=true)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### DevOPS and SRE
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
-
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### My OS:
-
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+UI frameworks · state · styling · languages · build & package tools · QA · clients
