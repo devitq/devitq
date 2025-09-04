@@ -6,8 +6,8 @@
 ## STATS
 
 <div>
-  <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.itqdev.xyz/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&hide=stars,prs">
-  <img alt="ITQ's GitHub stats" src="https://github-readme-stats.itqdev.xyz/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact">
+  <img alt="ITQ's GitHub stats" align=top src="https://github-readme-stats.itqdev.xyz/api?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&hide=stars,prs,contribs&show=prs_merged_percentage">
+  <img alt="ITQ's GitHub stats" src="https://github-readme-stats.itqdev.xyz/api/top-langs?username=devitq&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=yandex-lyceum,Techuspeh,InDataLanding">
 </div>
 
 <div>
